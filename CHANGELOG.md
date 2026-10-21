@@ -1,5 +1,14 @@
 # @sanity/client
 
+## 8.11.0
+
+### Minor Changes
+
+- **context:** jobs.get types each job's kind and result ([#1363](https://github.com/sanity-io/client/pull/1363)) ([444eedb](https://github.com/sanity-io/client/commit/444eedbe88508df4c281097410b12af1bb0f73eb))
+- **context:** mcpEndpoints.status and initialContext read an endpoint by name ([#1364](https://github.com/sanity-io/client/pull/1364)) ([da4f58b](https://github.com/sanity-io/client/commit/da4f58b560df9a705b10d5d5c5eb9a7c74bf84fd))
+- **context:** mcpEndpoints can create, edit and delete endpoints ([#1365](https://github.com/sanity-io/client/pull/1365)) ([72bea7c](https://github.com/sanity-io/client/commit/72bea7c786ee06ccaf6d15bce2fa4c5812fc561d))
+- **context:** EntryDoc follows the citation redesign ([#1366](https://github.com/sanity-io/client/pull/1366)) ([21a0d24](https://github.com/sanity-io/client/commit/21a0d24104b1073233b7c76339cedafd367e1096))
+
 ## 8.10.1
 
 ### Patch Changes
